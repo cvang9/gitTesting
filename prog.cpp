@@ -5,4 +5,8 @@ int main()
 {
     cout<<" HUEHUEHUE HUEHUEHUE ";
     return 0;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> ddev
